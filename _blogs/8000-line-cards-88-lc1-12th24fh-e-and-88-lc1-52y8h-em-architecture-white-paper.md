@@ -99,7 +99,7 @@ Figure 5. Collapsed Core Use Case
 ## Understanding the Cisco 88-LC1-52Y8H-EM and 88-LC1-12TH24FH-E Naming Logic 
 
 ![Figure6.png]({{site.baseurl}}/images/Figure6.png)
-Figure 6. Cisco 88-LC1-52Y8H-EM Naming 
+Figure 6. Cisco 88-LC1-12TH24FH-E Naming 
 {: .text-center} 
 
 ![Figure7.png]({{site.baseurl}}/images/Figure7.png)
